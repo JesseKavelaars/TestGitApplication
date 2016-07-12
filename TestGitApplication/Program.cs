@@ -1,4 +1,5 @@
-﻿namespace TestGitApplication
+﻿// Just a dummy implementation
+namespace TestGitApplication
 {
     class Program
     {
